@@ -229,3 +229,7 @@ footer {
     color: #4A4A4A;
     margin-left: 20px;
 }
+.show {
+    border:red;
+    border-style:solid;
+}
