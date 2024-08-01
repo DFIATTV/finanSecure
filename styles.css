@@ -124,20 +124,22 @@ main {
     display: flex;
     justify-content: left;
     align-items: center;
-    flex: 3;
 }
 
 .info-image img {
-    max-width: auto;
-    height: 50%;
-    width: 50%;
-    margin-right: 2rem;
+    height: 75%;
+    width: 75%;
+    margin: 1rem;
+}
+
+.info-image {
     flex: 1;
 }
 
 .contact-info {
     display: flex;
     flex-direction: column;
+    flex: 3:
 }
 
 .contact-item {
